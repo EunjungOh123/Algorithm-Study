@@ -1,4 +1,4 @@
-package Study1_배열과리스트;
+package Study1_자료구조.Array_List;
 
 import java.io.BufferedReader;
 import java.io.IOException;

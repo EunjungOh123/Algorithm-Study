@@ -1,4 +1,4 @@
-package Study1_배열과리스트.Two_Pointer;
+package Study1_자료구조.Two_Pointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
